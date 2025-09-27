@@ -34,6 +34,11 @@ skills = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahilsanganeriya&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saahilsanganeriya/saahilsanganeriya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
 <div align="center">
   <sub>🤖 This profile auto-updates • Last refresh: ![GitHub last commit](https://img.shields.io/github/last-commit/saahilsanganeriya/saahilsanganeriya?style=flat&color=green)</sub>
