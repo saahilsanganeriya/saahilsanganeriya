@@ -1,34 +1,77 @@
 # Hey there! 👋 I'm Saahil
 
-**ML Engineer | Data Engineer | Researcher**
+<div align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
+  
+  **Building the future, one data pipeline at a time** 🚀
+  
+  ![Visitor Count](https://profile-counter.glitch.me/saahilsanganeriya/count.svg)
+</div>
 
-Building intelligent systems that scale from research to production. Currently pursuing MS in Machine Learning at Georgia Tech with a passion for real-time data platforms, computer vision, and making AI accessible.
+## 🎯 What I'm About
 
-## 🚀 What I'm Building
+Currently crafting **real-time data magic** at scale while pursuing my Master's in ML at Georgia Tech. I turn messy data into meaningful insights and make computers see cells better than humans do.
 
-- **Real-time streaming architectures** that process hundreds of thousands of events per minute
-- **Computer vision models** that help biologists discover new insights 
-- **ML security systems** that detect deepfakes in the wild
-- **Open-source tools** that democratize machine learning
+```python
+class Saahil:
+    def __init__(self):
+        self.current_status = "Data Engineer @ Amazon"
+        self.education = "MS Machine Learning @ Georgia Tech"
+        self.passion = ["Real-time Systems", "Computer Vision", "ML Security"]
+        self.fun_fact = "Published in PLOS ONE & built a Napari plugin"
+        
+    def get_coffee_and_code(self):
+        return "Building enterprise streaming platforms ☕→📊"
+        
+    def latest_achievement(self):
+        return "600-900ms latency on 300K+ events/minute 🔥"
+```
 
-## 🛠️ Current Tech Stack
+## 🔥 Current Adventures
+- 🔬 **Research:** Making AI see biological cells like a pro microscopist
+- ⚡ **Engineering:** Sub-second data pipelines processing 300K+ events/minute  
+- 🧠 **Learning:** ML Security, Graph ML, and whatever's next
+- 📝 **Writing:** Converting caffeine into code and papers
 
-**Languages:** Python, Java, SQL, C++, JavaScript, Scala  
-**ML/AI:** PyTorch, TensorFlow, Hugging Face, OpenCV, Scikit-learn  
-**Data:** Apache Flink, Spark, Kinesis, OpenSearch, PostgreSQL  
-**Cloud:** AWS, Azure, Databricks, Docker, Kubernetes  
+## 🛠️ Tech Stack I Love
 
-## 📫 Let's Connect
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
 
-[![Website](https://img.shields.io/badge/Portfolio-saahilsanganeriya.com-blue?style=flat-square&logo=firefox)](https://saahilsanganeriya.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saahil-sanganeriya)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saahilsanganeria666@gmail.com)
-[![Phone](https://img.shields.io/badge/-Call-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+1-404-353-0965)
+</div>
 
 ## 📊 GitHub Stats
 
-![Saahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahilsanganeriya&show_icons=true&theme=default&hide_rank=true)
+<div align="center">
+  
+![Saahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahilsanganeriya&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilsanganeriya&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/saahilsanganeriya)
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge)](https://saahilsanganeriya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saahil-sanganeriya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saahilsanganeria666@gmail.com)
+[![Call](https://img.shields.io/badge/📞_Call-25D366?style=for-the-badge)](tel:+1-404-353-0965)
+
+</div>
 
 ---
-
-💡 *Always open to interesting conversations about ML, data engineering, or building cool stuff!*
+<div align="center">
+  <i>"Data is the new oil, but I prefer it refined and real-time"</i> ⛽→⚡
+  
+  ![Snake animation](https://github.com/saahilsanganeriya/saahilsanganeriya/blob/output/github-contribution-grid-snake.svg)
+</div>
