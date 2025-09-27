@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </div>
 
-I'm **Saahil** – a grad student at Georgia Tech who enjoys turning messy data into meaningful insights and building systems that scale.
+I'm **Saahil** – a grad student at Georgia Tech who spends way too much time debugging why my "working" code suddenly isn't, and occasionally building things that actually work in production.
 
-🔬 **Currently:** Fine-tuning AI models for cell segmentation & architecting real-time streaming platforms  
+🔬 **Currently:** Teaching AI to see cells (they're surprisingly picky) & building data pipelines that hopefully won't crash at 3 AM  
 🎯 **Focus:** ML Engineering • Data Engineering • Computer Vision  
-⚡ **Fun fact:** My code runs faster than my coffee gets cold ☕  
+🤓 **Status:** Caffeinated and ready to turn your data problems into... different data problems  
 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saahil-sanganeriya)
