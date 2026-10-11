@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </div>
 
-I'm **Saahil** – a grad student at Georgia Tech who spends way too much time debugging why my "working" code suddenly isn't, and occasionally building things that actually work in production.
+I'm **Saahil** – a software engineer on Mercor's Applied AI team, building the data systems behind frontier AI post-training. Georgia Tech BS/MS in CS (ML), and a published ML researcher.
 
-🔬 **Currently:** Teaching AI to see cells (they're surprisingly picky) & building data pipelines that hopefully won't crash at 3 AM  
+🔬 **Currently:** Entity resolution, synthetic data and LLM pipelines that run at scale (and hopefully won't crash at 3 AM)  
 🎯 **Focus:** ML Engineering • Data Engineering • Computer Vision  
 🤓 **Status:** Caffeinated and ready to turn your data problems into... different data problems  
 
