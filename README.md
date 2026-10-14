@@ -7,11 +7,20 @@
 I'm **Saahil** – a software engineer on Mercor's Applied AI team, building the data systems behind frontier AI post-training. Georgia Tech BS/MS in CS (ML), and a published ML researcher.
 
 🔬 **Currently:** Entity resolution, synthetic data and LLM pipelines that run at scale (and hopefully won't crash at 3 AM)  
-🎯 **Focus:** ML Engineering • Data Engineering • Computer Vision  
+🎯 **Focus:** ML Engineering • Data Engineering • Distributed Systems  
 🤓 **Status:** Caffeinated and ready to turn your data problems into... different data problems  
 
-### 📂 Want to see what I've built?
-**→ Check out my [📝 resume](https://drive.google.com/file/d/1OLf3A_LT3cy20fMWF8oF_SHl3DCyyvWK/view?usp=sharing) and [🌐 portfolio](https://saahilsanganeriya.com) to dive into my projects!**
+### 📂 Things I've built
+- 🧩 **[Entity resolution and anonymization](https://saahilsanganeriya.com/projects/entity-resolution-and-anonymization)** at Mercor: links every name, email and handle to the real person, then gives each one a consistent fake identity
+- 🧪 **[swe-sim](https://github.com/saahilsanganeriya/swe-sim)**: turns real GitHub issues into graded coding-agent tasks, with a simulated stakeholder the agent can question
+- ✈️ **[travel-agent-gym](https://github.com/saahilsanganeriya/travel-agent-gym)**: an RL environment where an agent interviews a client, books the trip, then lives through what goes wrong
+- 🧠 **[saahil-brain](https://github.com/saahilsanganeriya/saahil-brain)**: one notes folder on two machines that every coding-agent session reads from
+- 🔬 **[SAMCell](https://github.com/saahilsanganeriya/SAMCell)**: Segment Anything fine-tuned to outline every cell in a microscope image ([PLOS ONE, 2025](https://doi.org/10.1371/journal.pone.0319532))
+- ⚡ **[real_time_streaming](https://github.com/saahilsanganeriya/real_time_streaming)**: the Flink pipeline I built at Amazon to replace an hourly batch job; events land in 600–900 ms
+- 🎞️ **[projectionist](https://github.com/saahilsanganeriya/projectionist)**: one Go service that runs my film library on a NAS and pauses heavy jobs while anyone else is watching
+- 🔗 **[referral-network](https://github.com/saahilsanganeriya/referral-network)**: a small Python library for referral graphs: reach, flow centrality and bonus growth
+
+**→ The write-ups live on [🌐 saahilsanganeriya.com](https://saahilsanganeriya.com), and so does my [📝 résumé](https://saahilsanganeriya.com/resume).**
 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saahil-sanganeriya)
@@ -21,10 +30,10 @@ I'm **Saahil** – a software engineer on Mercor's Applied AI team, building the
 ### 🛠️ Tech Stack
 ```python
 skills = {
-    "languages": ["Python", "Java", "SQL", "C++", "Scala"],
-    "ml_ai": ["PyTorch", "TensorFlow", "OpenCV", "Transformers"],
-    "data_eng": ["Apache Flink", "Spark", "Kinesis", "OpenSearch"],
-    "cloud": ["AWS", "Azure", "Databricks"]
+    "languages": ["Python", "Go", "Rust", "Java", "SQL", "C++", "Scala"],
+    "ml_ai": ["PyTorch", "LightGBM", "FAISS", "Transformers", "OpenCV"],
+    "data_eng": ["Temporal", "Apache Flink", "Spark", "Kinesis", "OpenSearch"],
+    "cloud": ["AWS", "Azure", "Databricks", "Kubernetes"]
 }
 ```
 
